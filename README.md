@@ -4,7 +4,11 @@
 ## Tech Stack
 
 **Web-development skills:** HTML and CSS.
+
+
 **Source code editor:** VS Code
+
+
 **Version control system**: Git and Github.
 
 
