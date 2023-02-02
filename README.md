@@ -1,6 +1,9 @@
 
 # project-1-SEO website page
 
+## Live Link
+* [link](https://seofsjs.netlify.app)
+
 ## Tech Stack
 
 **Web-development skills:** HTML and CSS.
@@ -13,8 +16,7 @@
 
 
 
-## Live Link
-* [link](https://seofsjs.netlify.app)
+
 
 
 ## Project Description
