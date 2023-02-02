@@ -1,6 +1,14 @@
 
 # project-1-SEO website page
 
+## Tech Stack
+
+**Web-development skills:** HTML and CSS.
+
+**Source code editor:** VS Code
+
+
+
 ## Live Link
 * [link](https://seofsjs.netlify.app)
 
