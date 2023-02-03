@@ -2,6 +2,7 @@
 # project-1-SEO website page
 
 ## Live Link
+
 * [link](https://seofsjs.netlify.app)
 
 ## Tech Stack
