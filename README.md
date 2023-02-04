@@ -5,7 +5,7 @@
 
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://seofsjs.netlify.app)
 
-* [link](https://seofsjs.netlify.app)
+
 
 ## Tech Stack
 
